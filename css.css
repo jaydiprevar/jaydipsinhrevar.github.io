@@ -1,0 +1,14 @@
+/* style.css */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ... include all other styles exactly as in the <style> tag ... */
+
+.icon {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+}
